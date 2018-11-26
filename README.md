@@ -1,6 +1,6 @@
-# Proyecto de CNN de Redes neuronales (nombre del proyecto TBD)
+# Sketch2shiba
 
-Este proyecto fue forkeado de [pix2pix y CycleGAN](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) y aun no se que es lo que haré con el por el cual tampoco hay un nombre para este proyecto.
+Este proyecto fue forkeado de [pix2pix y CycleGAN](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) y su proposito es que a base de un dibujo o bosquejo de un perro la red genere un perro de raza Shiba inu
 
 Este proyecto es parte de la evaluación de la mitad de curso de la materia de Redes neuronales de la Univerisdad de Sonora
 
