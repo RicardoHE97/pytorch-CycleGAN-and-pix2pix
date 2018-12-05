@@ -15,7 +15,7 @@ Este proyecto es parte de la evaluación de la mitad de curso de la materia de R
 * Clonar este repositorio
 ```bash
 git clone https://github.com/RicardoHE97/sketch2shiba
-cd pytorch-CycleGAN-and-pix2pix
+cd sketch2shiba
 ```
 
 * Instalar PyTorch 0.4+ y torchvision de http://pytorch.org y otras dependencias (e.g., [visdom](https://github.com/facebookresearch/visdom) y [dominate](https://github.com/Knio/dominate)). Se pueden instalar todas las dependencias así:
